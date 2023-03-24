@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Android App Developer
 ---------------------
 
-I have been learning to code for 2-3 years and tried various fields, i really liked App development so i decided to pursue my future in App Development
+I have been learning to code for 2-3 years and tried various fields and I really liked App development so I decided to pursue my future in App Development
 
 * 🌍  I'm based in Pune, Maharashtra, India
 * ✉️  You can contact me at [abhidhadke@gmail.com](mailto:abhidhadke@gmail.com)
